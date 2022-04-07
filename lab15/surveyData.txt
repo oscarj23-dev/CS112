@@ -1,0 +1,450 @@
+unhappy,strongly agree
+very unhappy,strongly agree
+happy,agree
+neutral,strongly agree
+happy,agree
+very unhappy,strongly agree
+neutral,strongly agree
+very happy,disagree
+neutral,strongly agree
+unhappy,strongly agree
+very unhappy,strongly agree
+happy,disagree
+neutral,neutral
+unhappy,agree
+happy,agree
+very unhappy,agree
+very unhappy,neutral
+unhappy,strongly agree
+neutral,agree
+very unhappy,agree
+unhappy,neutral
+very unhappy,strongly agree
+very unhappy,strongly agree
+very happy,neutral
+very unhappy,strongly agree
+very happy,neutral
+unhappy,strongly agree
+neutral,agree
+very unhappy,agree
+unhappy,neutral
+neutral,strongly agree
+unhappy,neutral
+very happy,disagree
+very happy,strongly disagree
+very unhappy,neutral
+unhappy,agree
+very unhappy,strongly agree
+unhappy,neutral
+very unhappy,agree
+very unhappy,strongly agree
+very happy,neutral
+unhappy,agree
+very happy,agree
+very unhappy,agree
+happy,agree
+very unhappy,agree
+unhappy,neutral
+happy,agree
+unhappy,agree
+neutral,strongly agree
+very happy,strongly disagree
+happy,neutral
+neutral,neutral
+very happy,strongly disagree
+very happy,strongly disagree
+very happy,neutral
+very unhappy,neutral
+very happy,disagree
+unhappy,strongly agree
+happy,disagree
+happy,disagree
+unhappy,neutral
+very unhappy,strongly agree
+very happy,disagree
+happy,disagree
+very unhappy,neutral
+very unhappy,strongly agree
+happy,disagree
+very unhappy,strongly agree
+very happy,agree
+very unhappy,strongly agree
+very unhappy,strongly agree
+unhappy,strongly agree
+unhappy,agree
+happy,agree
+unhappy,neutral
+unhappy,strongly agree
+very unhappy,neutral
+neutral,agree
+very unhappy,agree
+very unhappy,strongly agree
+happy,disagree
+very unhappy,agree
+unhappy,agree
+very unhappy,strongly agree
+happy,disagree
+very unhappy,strongly agree
+happy,disagree
+very unhappy,neutral
+very unhappy,neutral
+very unhappy,agree
+unhappy,agree
+unhappy,strongly agree
+unhappy,neutral
+unhappy,neutral
+very unhappy,strongly agree
+unhappy,agree
+very unhappy,agree
+very unhappy,strongly agree
+very unhappy,agree
+unhappy,neutral
+happy,agree
+unhappy,agree
+very unhappy,neutral
+very happy,agree
+very happy,strongly disagree
+very unhappy,agree
+very happy,disagree
+very happy,agree
+happy,neutral
+very unhappy,strongly agree
+very happy,strongly disagree
+unhappy,agree
+unhappy,agree
+very unhappy,agree
+very unhappy,neutral
+very happy,agree
+neutral,agree
+very happy,disagree
+very unhappy,neutral
+neutral,agree
+happy,agree
+neutral,neutral
+very unhappy,neutral
+unhappy,agree
+very unhappy,neutral
+very unhappy,agree
+unhappy,neutral
+very unhappy,strongly agree
+very happy,neutral
+very happy,disagree
+unhappy,agree
+very unhappy,agree
+neutral,neutral
+very unhappy,strongly agree
+very unhappy,strongly agree
+unhappy,agree
+very happy,strongly disagree
+very happy,agree
+very unhappy,agree
+very unhappy,strongly agree
+unhappy,neutral
+neutral,neutral
+happy,strongly disagree
+very happy,neutral
+very unhappy,neutral
+unhappy,agree
+unhappy,strongly agree
+very happy,agree
+very unhappy,strongly agree
+very happy,strongly disagree
+unhappy,agree
+happy,neutral
+very unhappy,strongly agree
+very unhappy,neutral
+very unhappy,agree
+happy,strongly disagree
+unhappy,strongly agree
+very unhappy,agree
+very unhappy,neutral
+unhappy,neutral
+unhappy,agree
+very unhappy,neutral
+very unhappy,neutral
+unhappy,agree
+unhappy,strongly agree
+very unhappy,strongly agree
+happy,neutral
+neutral,strongly agree
+unhappy,neutral
+unhappy,neutral
+unhappy,agree
+very unhappy,strongly agree
+unhappy,strongly agree
+very happy,neutral
+very happy,agree
+very unhappy,agree
+very happy,neutral
+very unhappy,agree
+very happy,disagree
+very unhappy,neutral
+neutral,neutral
+very happy,neutral
+very unhappy,strongly agree
+very unhappy,strongly agree
+unhappy,strongly agree
+very unhappy,strongly agree
+unhappy,agree
+very happy,disagree
+unhappy,strongly agree
+unhappy,agree
+very unhappy,neutral
+very happy,disagree
+very happy,strongly disagree
+neutral,agree
+very happy,strongly disagree
+neutral,agree
+very happy,disagree
+very happy,strongly disagree
+very unhappy,neutral
+very unhappy,neutral
+unhappy,agree
+unhappy,agree
+unhappy,strongly agree
+happy,disagree
+happy,neutral
+unhappy,agree
+very unhappy,neutral
+unhappy,neutral
+unhappy,agree
+happy,neutral
+very unhappy,neutral
+unhappy,agree
+happy,agree
+neutral,neutral
+very unhappy,neutral
+unhappy,agree
+unhappy,neutral
+very unhappy,strongly agree
+very unhappy,neutral
+very happy,strongly disagree
+happy,strongly disagree
+very happy,agree
+very unhappy,neutral
+very happy,disagree
+happy,agree
+unhappy,neutral
+very happy,strongly disagree
+very unhappy,agree
+very unhappy,agree
+happy,strongly disagree
+neutral,agree
+very unhappy,strongly agree
+very unhappy,strongly agree
+happy,agree
+very unhappy,agree
+unhappy,agree
+neutral,agree
+very unhappy,neutral
+very unhappy,strongly agree
+very happy,strongly disagree
+unhappy,strongly agree
+unhappy,agree
+unhappy,strongly agree
+very happy,strongly disagree
+very unhappy,strongly agree
+very unhappy,strongly agree
+very unhappy,neutral
+unhappy,neutral
+unhappy,neutral
+unhappy,neutral
+very unhappy,agree
+very unhappy,agree
+unhappy,agree
+very unhappy,neutral
+very unhappy,neutral
+very unhappy,neutral
+very unhappy,strongly agree
+very happy,neutral
+neutral,neutral
+happy,disagree
+very unhappy,neutral
+very unhappy,strongly agree
+neutral,strongly agree
+happy,neutral
+unhappy,strongly agree
+very happy,strongly disagree
+neutral,strongly agree
+unhappy,agree
+very unhappy,strongly agree
+very happy,neutral
+very unhappy,neutral
+very unhappy,neutral
+very happy,strongly disagree
+unhappy,agree
+very unhappy,agree
+very happy,agree
+neutral,neutral
+neutral,agree
+very unhappy,neutral
+very unhappy,neutral
+very happy,strongly disagree
+unhappy,neutral
+unhappy,neutral
+very happy,agree
+neutral,agree
+very unhappy,strongly agree
+unhappy,agree
+very happy,neutral
+neutral,agree
+unhappy,neutral
+very happy,neutral
+unhappy,agree
+very unhappy,strongly agree
+neutral,strongly agree
+very unhappy,neutral
+neutral,strongly agree
+happy,disagree
+very unhappy,agree
+happy,disagree
+very unhappy,neutral
+very unhappy,strongly agree
+neutral,strongly agree
+unhappy,agree
+very happy,strongly disagree
+unhappy,neutral
+very unhappy,neutral
+very unhappy,neutral
+unhappy,strongly agree
+unhappy,agree
+very unhappy,neutral
+unhappy,strongly agree
+happy,disagree
+unhappy,agree
+very unhappy,agree
+happy,neutral
+neutral,agree
+very unhappy,neutral
+unhappy,strongly agree
+neutral,strongly agree
+happy,agree
+very happy,strongly disagree
+happy,strongly disagree
+very unhappy,strongly agree
+very unhappy,agree
+very unhappy,agree
+happy,strongly disagree
+very unhappy,strongly agree
+happy,neutral
+very unhappy,strongly agree
+very unhappy,strongly agree
+unhappy,neutral
+unhappy,neutral
+unhappy,neutral
+very unhappy,agree
+neutral,neutral
+neutral,agree
+unhappy,neutral
+unhappy,agree
+very happy,agree
+very unhappy,agree
+very unhappy,strongly agree
+very happy,agree
+very happy,agree
+very happy,disagree
+very happy,strongly disagree
+unhappy,strongly agree
+very unhappy,agree
+unhappy,neutral
+unhappy,strongly agree
+very unhappy,strongly agree
+happy,agree
+very happy,disagree
+very unhappy,neutral
+very unhappy,neutral
+happy,strongly disagree
+unhappy,strongly agree
+very unhappy,neutral
+very unhappy,agree
+neutral,strongly agree
+very unhappy,strongly agree
+very unhappy,neutral
+very unhappy,strongly agree
+happy,agree
+unhappy,agree
+very unhappy,neutral
+very unhappy,neutral
+happy,agree
+unhappy,agree
+happy,strongly disagree
+very unhappy,neutral
+unhappy,neutral
+very unhappy,agree
+unhappy,agree
+very unhappy,strongly agree
+neutral,agree
+very happy,neutral
+unhappy,neutral
+very unhappy,agree
+very unhappy,neutral
+unhappy,neutral
+very unhappy,agree
+unhappy,agree
+unhappy,strongly agree
+very unhappy,strongly agree
+neutral,strongly agree
+happy,agree
+very happy,neutral
+unhappy,strongly agree
+unhappy,neutral
+very unhappy,agree
+unhappy,agree
+happy,neutral
+unhappy,neutral
+unhappy,neutral
+very happy,strongly disagree
+unhappy,agree
+happy,strongly disagree
+very unhappy,agree
+unhappy,agree
+happy,disagree
+unhappy,strongly agree
+very unhappy,neutral
+unhappy,strongly agree
+very happy,agree
+very happy,strongly disagree
+happy,neutral
+unhappy,agree
+very happy,strongly disagree
+very unhappy,strongly agree
+unhappy,neutral
+unhappy,neutral
+very unhappy,neutral
+happy,disagree
+neutral,neutral
+unhappy,neutral
+very unhappy,neutral
+happy,disagree
+very unhappy,agree
+neutral,strongly agree
+very unhappy,agree
+very unhappy,strongly agree
+happy,agree
+very unhappy,agree
+very unhappy,agree
+neutral,agree
+unhappy,agree
+happy,disagree
+very unhappy,strongly agree
+very happy,agree
+unhappy,neutral
+very unhappy,agree
+very unhappy,agree
+unhappy,agree
+unhappy,agree
+neutral,agree
+very unhappy,agree
+unhappy,agree
+very unhappy,strongly agree
+very unhappy,agree
+unhappy,agree
+unhappy,strongly agree
+very unhappy,neutral
+very unhappy,agree
+very unhappy,strongly agree
+happy,agree
+happy,disagree
+unhappy,agree
+unhappy,neutral
+happy,neutral

@@ -1,0 +1,4 @@
+unhappy, agree 
+happy, agree 
+very unhappy, agree 
+very unhappy, neutral 

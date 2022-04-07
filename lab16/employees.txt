@@ -1,0 +1,37 @@
+
+
+
+ZOOM
+
+
+1,Daniel Taylor,156000,70000
+5,Karen Jones,127000,32000
+10,Daniel Smith,97000,6000
+30,john Harris,46000,5000
+12,Henry Martinez,99000,6000
+30,john Harris,46000,5000
+88,Jennifer Smith,167000,70000
+16,Sophia Taylor,81000,6000
+80,Daniel Lee,176000,59000
+17,Abigail Lee,186000,51000
+24,Sophia Harris,54000,5000
+30,john Harris,46000,5000
+88,Jennifer Smith,167000,70000
+32,john Miller,81000,7000
+52,Susan Lee,54000,2000
+89,James Martinez,169000,62000
+33,john Martinez,116000,40000
+5,Karen Jones,127000,32000
+35,Abigail Thomas,72000,4000
+47,Henry Smith,74000,6000
+51,Lily Harris,158000,56000
+52,Susan Lee,54000,2000
+54,john Smith,133000,42000
+58,Susan Thomas,85000,5000
+60,James Smith,25000,2000
+61,Ethan Thomas,57000,5000
+62,Henry Harris,38000,2000
+89,James Martinez,169000,62000
+65,William Thomas,139000,39000
+74,Jennifer Thomas,149000,47000
+91,Jennifer Harris,92000,6000

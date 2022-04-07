@@ -1,0 +1,58 @@
+City of Ellensburg, 10/1, 125.06, Bills & Utilities
+Consolidated Communications, 10/1, 54.78, Bills & Utilities
+DirectTV, 10/1, 89.45, Bills & Utilities
+Auto Zone , 10/2 , 30.39 , Automotive
+Coffee Shop , 10/2 , 10.44 , Food & Drink
+Short Stop , 10/3 , 48.23 , Gas
+Grand Merdian Cinema , 10/3 , 23.84 , Entertainment
+Mcdonalds , 10/5 , 14.9 , Food & Drink
+Safeway , 10/6 , 36.52 , Gas
+Club 301 , 10/6 , 25.45 , Entertainment
+Quincy Deli Mart , 10/12 , 67.85 , Gas
+Ellesburg Rodeo , 10/12 , 18.17 , Entertainment
+Super 1 Foods , 10/12 , 52.67 , Groceries
+Mcdonalds , 10/19 , 15.4 , Food & Drink
+Quincy Deli Mart , 10/20 , 42.32 , Gas
+Ellesburg Rodeo , 10/20 , 14.26 , Entertainment
+76 , 10/24 , 39.65 , Gas
+Ellesburg Rodeo , 10/24 , 29.49 , Entertainment
+Pauls Bikes Shop , 10/28 , 15.86 , Other
+City of Ellensburg, 11/1, 120.79, Bills & Utilities
+Consolidated Communications, 11/1, 54.78, Bills & Utilities
+DirectTV, 11/1, 89.45, Bills & Utilities
+Short Stop , 11/2 , 50.83 , Gas
+Club 301 , 11/2 , 26.61 , Entertainment
+Walmart , 11/6 , 35.43 , Groceries
+Mcdonalds , 11/8 , 18.61 , Food & Drink
+Fred Meyer , 11/14 , 50.22 , Groceries
+Jack in the Box , 11/14 , 16.02 , Food & Drink
+Short Stop , 11/15 , 52.51 , Gas
+Club 301 , 11/15 , 22.39 , Entertainment
+Quincy Deli Mart , 11/22 , 37.69 , Gas
+Club 301 , 11/22 , 24.53 , Entertainment
+City of Ellensburg, 12/1, 164.3, Bills & Utilities
+Consolidated Communications, 12/1, 54.78, Bills & Utilities
+DirectTV, 12/1, 89.45, Bills & Utilities
+Mcdonalds , 12/3 , 16.72 , Food & Drink
+Taco Bell , 12/6 , 7.42 , Food & Drink
+Trip Advisor , 12/7 , 136.85 , Travel
+Coffee Shop , 12/7 , 18.93 , Food & Drink
+Jack in the Box , 12/7 , 13.0 , Food & Drink
+Blue Rock Salon , 12/7 , 18.17 , Entertainment
+Wendys , 12/7 , 5.85 , Food & Drink
+Auto Store , 12/9 , 143.36 , Automotive
+Jack in the Box , 12/9 , 9.62 , Food & Drink
+Grocery Outlet , 12/10 , 41.91 , Groceries
+OReilly , 12/15 , 97.87 , Automotive
+Arbys , 12/15 , 14.04 , Food & Drink
+Booking , 12/15 , 69.07 , Travel
+Coffee Shop , 12/15 , 11.51 , Food & Drink
+Jack in the Box , 12/15 , 4.52 , Food & Drink
+Blue Rock Salon , 12/15 , 22.2 , Entertainment
+Jack in the Box , 12/15 , 4.53 , Food & Drink
+Safeway , 12/17 , 58.46 , Gas
+Grand Merdian Cinema , 12/17 , 20.22 , Entertainment
+Cenex , 12/20 , 49.7 , Gas
+Club 301 , 12/20 , 29.0 , Entertainment
+Walmart , 12/29 , 49.65 , Groceries
+Pauls Bikes Shop , 12/29 , 19.5 , Other
